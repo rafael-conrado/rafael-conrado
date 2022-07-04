@@ -1,4 +1,4 @@
-### Bem vindo ao meu repositório GitHub 🤙, fique a vontade e não hesite em entrar em contato.....
+### Bem vindo ao meu repositório GitHub 🤙.
 
 <h2>Quem é Rafael Conrado ?</h2>
 <p>Desde criança sempre fui uma pessoa muito curiosa por saber como as coisas funcionam, <i>quebrei</i> alguns brinquedos para saber como funcionavam, dentre outros objetos que desmontei ao longo da vida, por influência do meu pai, iniciei minha vida profissional aos 15 anos no setor de manutenção automotiva, sempre tive um perfil curioso e proativo, no setor automotivo tive o privilégio de trabalhar em concessionárias das marcas:
