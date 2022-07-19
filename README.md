@@ -1,4 +1,4 @@
-### Desenvolvedor full stack júnior.
+### Desenvolvedor back end stack júnior.
  
 ### Ferramentas, Tecnologias, Liguagens de programação, Frameworks e mais....
 
