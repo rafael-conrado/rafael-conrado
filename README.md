@@ -1,4 +1,5 @@
-### Desenvolvedor Full Stack  júnior.
+### Prazer Rafael Conrado
+Desenvolvedor back-end, com formação técnica em desenvolvimento de sistemas e bacharel em Tecnologia da Informação e Engenharia mecânica. Tenho experiência em gerenciamento de código com Git, Github e Git Flow, bem como habilidades de desenvolvimento de chatbots usando a tecnologia IBM Watson, além disso, atuo com linguagens de programação JavaScript e PHP e tenho experiência com frameworks e bibliotecas como Bootstrap, JQuery e Express. Também possuo habilidades em gerenciamento de bancos de dados com Mysql, MongoDB e IBM Cloudant. Estou sempre buscando me manter atualizado com as últimas tecnologias e tendências em desenvolvimento de software, a fim de criar soluções inovadoras e eficientes para os projetos em que trabalho..
  
 ### Ferramentas, Tecnologias, Liguagens de programação, Frameworks e mais....
 
